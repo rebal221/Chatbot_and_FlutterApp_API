@@ -1,25 +1,17 @@
 
-# ChatBot In Python
+# ChatBot API in Node.Js
 
-A simple chat bot in Python with links to smart conversational with this project [vicky](https://github.com/rebal221/vicky) for frontend and this [Chatbot_and_FlutterApp_API](https://github.com/rebal221/Chatbot_and_FlutterApp_API) for server
+simple API for connect the [ChatBot](https://github.com/rebal221/ChatBot) with this flutter app [vicky](https://github.com/rebal221/vicky)
 ## Installation
 
-First you must download the above projects and follow the steps
-
-For create envermant for install the packages write this in the terminal :
+run the command in the terminal
 ```shel
-     (your python version Ex 3)
-        python3 -m venv venv
-```
- 
-After that, you need to install the packages :
-```shel
-     pip3 install -r requirements.txt
+     npm init
 ```
 
 When completing Run the project :
 ```shel
-     python3 chatapp.py
+     node app.js
 ```
 
 ## Author
